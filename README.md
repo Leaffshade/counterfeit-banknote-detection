@@ -71,6 +71,8 @@ The application supports:
 
 <img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
 
+# Détection de faux billets avec Machine Learning
+
 ### Présentation du projet
 
 Ce projet porte sur la détection de faux billets à l'aide du machine learning, à partir de leurs caractéristiques géométriques.
