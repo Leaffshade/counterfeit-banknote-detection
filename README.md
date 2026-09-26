@@ -49,7 +49,7 @@ The models were evaluated using several metrics, with particular attention paid 
 
 ![Confusion Matrix](images/confusion-matrix.png)
 
-The selected model achieved **99% accuracy** on the test dataset and correctly detected **98% of counterfeit banknotes**.
+The selected model achieved 99% accuracy on the test dataset and correctly detected 98% of counterfeit banknotes.
 
 The confusion matrix was used to analyze classification errors and ensure that overall accuracy did not hide errors involving counterfeit banknotes.
 
@@ -116,7 +116,7 @@ Les modèles ont été évalués à l'aide de plusieurs métriques, avec une att
 
 ![Matrice de confusion](images/confusion-matrix.png)
 
-Le modèle retenu obtient une **accuracy de 99 %** sur le jeu de test et permet de détecter correctement **98 % des faux billets**.
+Le modèle retenu obtient une accuracy de 99 % sur le jeu de test et permet de détecter correctement 98 % des faux billets.
 
 La matrice de confusion permet d'analyser les erreurs de classification et de vérifier que les performances globales du modèle ne masquent pas des erreurs concernant les faux billets.
 
